@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188972568008",
+    "firebase_url": "https://heritage-blog.firebaseio.com",
+    "project_id": "heritage-blog",
+    "storage_bucket": "heritage-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188972568008:android:25ff4ae5d625b6c3dbc4fd",
+        "android_client_info": {
+          "package_name": "com.prashantchanne.heritage_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188972568008-qaluoqklpiqvog7b86pa6boqfk50u13d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAM_QC6MZBkGmihi5RVKW8iYELRHBtLHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188972568008-qaluoqklpiqvog7b86pa6boqfk50u13d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
